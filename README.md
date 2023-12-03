@@ -1,6 +1,8 @@
 # FemaleBeautyCalculator
 Rate any woman's beauty with an AI trained by a professional image consultant! Android only for now
 
+https://play.google.com/store/apps/details?id=com.mbayo.ks_women_rate
+
 -----
 
 ![unnamed (1)](https://github.com/mbayo97/FemaleBeautyCalculator/assets/114036622/4ac9ea83-9eca-466a-9150-474f78bb4292)
